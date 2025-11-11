@@ -1,5 +1,9 @@
-# New Requirement
+## Task 1
 
+**Task Type:** Feature Implementation
+
+**Prompt:**
+```
 Adjust the layout.tsx page layout to include top navigation bar, left sidebar menu, and bottom information bar, with content area in the middle.
 
 - Top navigation bar contains application name, Logo, and user information.
@@ -11,5 +15,5 @@ Add two content area components:
 
 - Dashboard component (default): Displays the main statistics and charts of the application.
 - Settings component: Displays system configuration options, such as theme, notification settings, etc.
-
+```
 
